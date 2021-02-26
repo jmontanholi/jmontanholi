@@ -1,16 +1,20 @@
-### Hi there 👋
+![alt text]()
+### Pronouns: he/him.
+[![Jmontanholi GitHub stats](https://github-readme-stats.vercel.app/api?username=jmontanholi&show_icons=true&theme=radical)](https://github.com/jmontanholi/github-readme-stats)
 
-<!--
-**jmontanholi/jmontanholi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+* ## I am currently a full-time student at Microverse. Working hard to be a full-stack developer!!! :computer::computer::computer:
+     * ### Throughout the course I will learn tons of technical skills such as Ruby, Rails, JavaScript, React and Redux. :scream:
+     * #### Currently on the course I am learning how to really master HTML and CSS to create not only beautiful and responsive websites but also readable and semantic code! :sunglasses:
+     * #### Other really important part of the course are the Soft Skills projects, where we learn how to combine our technical skills with great teamwork and professionalism!! 
+       * ##### We also change partners and teams every now and then to learn how to work with different people, teamwork is always the best way to complete a task!! :busts_in_silhouette::busts_in_silhouette::busts_in_silhouette: 
+--- 
 
-Here are some ideas to get you started:
+* ## Here you can see a few links that will lead you to my social media and also other ways to contact me. :smile:
+  * ### [Linkedin](https://www.linkedin.com/in/joaovitormontanholi/)
+  * ### [Twitter](https://twitter.com/MontanholiNunes)
+  * ### [Facebook](https://www.facebook.com/jonunesoriginal.vitor.9)
+  * ### My main email: jonunes9326@hotmail.com.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ * ## I am currently looking for a job opportunity that allows and helps me to grow both as a professional and as a person.
