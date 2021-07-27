@@ -18,3 +18,4 @@
 
 ---
  * ## I am currently looking for a job opportunity that allows and helps me to grow both as a professional and as a person.
+* ## Take a look at my [portfolio](https://jmontanholi.github.io/my_portfolio/)
