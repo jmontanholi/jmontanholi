@@ -5,10 +5,10 @@
 
 ---
 * ## I am currently a full-time student at Microverse. Working hard to be a full-stack developer!!! :computer:
-     * ### Throughout the course I will learn tons of technical skills such as Ruby, Rails, JavaScript, React and Redux. 
-     * #### Currently on the course I am learning how to really master HTML and CSS to create not only beautiful and responsive websites but also readable and semantic code! 
-     * #### Other really important part of the course are the Soft Skills projects, where we learn how to combine our technical skills with great teamwork and professionalism!! 
-       * ##### We also change partners and teams every now and then to learn how to work with different people, teamwork is always the best way to complete a task!! :busts_in_silhouette:
+     * ### Throughout the course, I will learn tons of technical skills such as Ruby, Rails, JavaScript, React, and Redux. 
+     * #### Currently on the course I am learning how to master HTML and CSS to create not only beautiful and responsive websites but also readable and semantic code! 
+     * #### Another really important part of the course is learning with the Soft Skills projects, where we learn how to combine our technical skills with great teamwork and professionalism!! 
+       * ##### We also change partners and teams now and then to learn how to work with different people, teamwork is always the best way to complete a task!! :busts_in_silhouette:
 --- 
 
 * ## Here you can see a few links that will lead you to my social media and also other ways to contact me. :smile:
