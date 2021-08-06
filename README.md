@@ -3,6 +3,8 @@
 ### Pronouns: he/him.
 [![Jmontanholi GitHub stats](https://github-readme-stats.vercel.app/api?username=jmontanholi&show_icons=true&theme=radical)](https://github.com/jmontanholi/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmontanholi&layout=compact&theme=radical)](https://github.com/jmontanholi/github-readme-stats)
+
 ---
 * ## I am currently a full-time student at Microverse. Working hard to be a full-stack developer!!! :computer:
      * ### Throughout the course, I will learn tons of technical skills such as Ruby, Rails, JavaScript, React, and Redux. 
