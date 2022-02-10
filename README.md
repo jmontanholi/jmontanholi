@@ -5,7 +5,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmontanholi&layout=compact&theme=radical)](https://github.com/jmontanholi/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmontanholi)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmontanholi)](https://github.com/jmontanholi/github-readme-stats)
 ---
 * ## Here you can see a few links that will lead you to my social media and also other ways to contact me. :smile:
   * ### [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joaovitormontanholi/)
