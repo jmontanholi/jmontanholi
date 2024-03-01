@@ -1,4 +1,4 @@
-![this is my logo](https://github.com/jmontanholi/jmontanholi/blob/main/João%20Vítor%20Montanholi%20Nunes.png) 
+![this is my logo](https://github.com/jmontanholi/jmontanholi/blob/main/backgroundimage.jfif)
 
 ### Pronouns: he/him.
 [![Jmontanholi GitHub stats](https://github-readme-stats.vercel.app/api?username=jmontanholi&show_icons=true&theme=radical)](https://github.com/jmontanholi/github-readme-stats)
