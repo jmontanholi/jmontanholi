@@ -14,9 +14,3 @@ Check my GitLab for latest contributions:
   * ### [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joaovitormontanholi/)
   * ### [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](jonunes9326@hotmail.com.br)
   * ### [<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/joao-vitor.nunes)
-
-
----
- * ## My ideal job is a place where I'll have the opportunity to grow both as a professional and as a person, where I can widen not only my technical knowledge but make human connections!
-* ## Take a look at my [portfolio](https://jmontanholi.github.io/my_portfolio/)
-  
